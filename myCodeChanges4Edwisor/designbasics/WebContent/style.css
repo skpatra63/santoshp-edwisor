@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+
+/* 	h2{ */
+/* 		color:blue;  */
+/* 	} */
+/* 	p{ */
+/* 		font-size:40px; */
+/* 	} */
+
+.myStyle{
+	color:green;
+	font-size:30px;
+	font-weight:bold;
+}
+
+#myheading{
+	color:orange;
+	font-size:40px;
+	font-weight:older;
+}
